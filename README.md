@@ -1,5 +1,5 @@
 # Usage
-git clone [oneTBB....](https://github.com/oneapi-src/oneTBB.git)
+git clone https://github.com/oneapi-src/oneTBB.git
 
 mkdir build
 
